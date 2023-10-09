@@ -1,0 +1,80 @@
+body{
+    background-image: url("https://w0.peakpx.com/wallpaper/311/864/HD-wallpaper-harry-potter-books-harry-potter.jpg");
+    background-attachment: fixed;
+}
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  
+}
+#BOOKS{
+    display: grid; 
+    grid-template-columns: 1fr 1fr 1fr;
+   
+}
+.book1{
+    border: 1px;
+    padding: 10px;
+    text-align: center;
+    margin: 10px;
+    max-width: 400px;
+    font-family: "Harry Potter",sans-serif;
+  }
+.book2{
+    border: 1px;
+    padding: 10px;
+    text-align: center;
+    margin: 10px;
+    max-width: 400px;
+    font-family: "Harry Potter",sans-serif;
+}
+.book3{
+    border: 1px;
+    padding: 10px;
+    text-align: center;
+    margin: 10px;
+    max-width: 400px;
+    font-family: "Harry Potter",sans-serif;
+}
+.book4{
+    border: 1px;
+    padding: 10px;
+    text-align: center;
+    margin: 10px;
+    max-width: 400px;
+    font-family: "Harry Potter",sans-serif;
+}
+.book5{
+    border: 1px;
+    padding: 10px;
+    text-align: center;
+    margin: 10px;
+    max-width: 400px;
+    font-family: "Harry Potter",sans-serif;
+}
+.book6{
+    border: 1px;
+    padding: 10px;
+    text-align: center;
+    margin: 10px;
+    max-width: 400px;
+    font-family: "Harry Potter",sans-serif;
+}
+.book7{
+    border: 1px;
+    padding: 10px;
+    text-align: center;
+    margin: 10px;
+    max-width: 400px;
+    font-family: "Harry Potter",sans-serif;
+}
+.book8{
+    border: 1px;
+    padding: 10px;
+    text-align: center;
+    margin: 10px;
+    max-width: 400px;
+    font-family: "Harry Potter",sans-serif;
+}
