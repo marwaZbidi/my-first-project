@@ -1,0 +1,50 @@
+body{
+    background-image: url("https://e0.pxfuel.com/wallpapers/433/368/desktop-wallpaper-behance-pesquisar-harry-potter-background-harry-potter-drawings-harry-potter-background-harry-potter-pattern.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#im1{
+    width: 30%;
+}
+#im2{
+    float:right;
+    width: 20%;
+}
+.acc{
+    display: grid; 
+    grid-template-columns: 1fr 1fr 1fr
+}
+#Bracelet{
+    background-color:beige;
+    border-radius: 100px;
+    padding: 10px;
+    text-align: center;
+    margin: 40px;
+    max-width: 300px;
+    font-family: "Harry Potter",sans-serif;
+}
+#Ring{
+    background-color:beige;
+    border-radius: 100px;
+    padding: 10px;
+    text-align: center;
+    margin: 40px;
+    max-width: 300px;
+    font-family: "Harry Potter",sans-serif;
+}
+#Necklaces{
+    background-color:beige;
+    border-radius: 100px;
+    padding: 10px;
+    text-align: center;
+    margin: 40px;
+    max-width: 300px;
+    font-family: "Harry Potter",sans-serif;
+}
+img{
+    width: 60%;
+}
+button{
+    width: 40%;
+}
