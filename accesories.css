@@ -11,6 +11,13 @@ body{
     float:right;
     width: 20%;
 }
+#dobby{
+    font-family: 'Harry Potter', sans-serif;
+   color: black;
+   font-weight: bolder;
+   font-size: 100px;
+   text-align:center;
+}
 .acc{
     display: grid; 
     grid-template-columns: 1fr 1fr 1fr
