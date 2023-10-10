@@ -92,11 +92,20 @@ $('#BOOKS').append(`<div class="book8"><h2 id="b8">${book8.name}</h2>
 </div> `)
 
 
-function changeImage(imageId, newImageSrc) {
-var imageElement = document.getElementById('imageId');
+function changeImage1(newImageSrc) {
+var imageElement = document.getElementById('i1');
 imageElement.src = newImageSrc;
 }
         
+function changeImage2(newImageSrc) {
+    var imageElement = document.getElementById('i2');
+    imageElement.src = newImageSrc;
+}
+
+function changeImage3(newImageSrc) {
+    var imageElement = document.getElementById('i3');
+    imageElement.src = newImageSrc;
+}
 
         
 
